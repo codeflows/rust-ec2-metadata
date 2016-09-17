@@ -4,3 +4,4 @@ version = "0.1.0"
 authors = ["Jari Aarniala <jari.aarniala@gmail.com>"]
 
 [dependencies]
+curl = "0.3.6"
